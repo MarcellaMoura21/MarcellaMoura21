@@ -1,7 +1,9 @@
 # 💫 About Me:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💻 Sou apaixonada por front-end e design, sempre em busca de criar interfaces atraentes e funcionais.  <br>📚 Sou sempre movida pela curiosidade e estou sempre em busca de aprender coisas novas.<br>🎨Nas horas vagas, adoro desenhar, ler e maratonar séries e filmes.
->"Nenhuma alta sabedoria pode ser atingida sem uma dose de sacrifício." — C.S. Lewis
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>💻 Sou apaixonada por front-end e design, em busca de criar interfaces atraentes e funcionais. <br>📚 Sou movida pela curiosidade e estou constantemente em busca de aprender coisas novas.<br>🎨 Nas horas vagas, adoro desenhar, ler e maratonar séries e filmes.
+
+>"Nenhuma alta sabedoria pode ser atingida sem uma dose de sacrifício." — C.S. Lewis
+>
 <img align="center"  alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpmd3A4MGVzcTJiNzRjbDI1MTZkcTZwOHh6M25xY2U2a2NjbzE1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 ## 🌐 Socials:
