@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e Banco de Dados <br>💻 Sou apaixonada por front-end e design, em busca de criar interfaces atraentes e funcionais. <br>📚 Sou movida pela curiosidade e estou constantemente em busca de aprender coisas novas.<br>🎨 Nas horas vagas, adoro desenhar, ler e maratonar séries e filmes.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e Banco de Dados <br>
+💻 Apaixonada por tecnologia, explorando o desenvolvimento full stack e buscando criar soluções eficientes e bem estruturadas. <br>
+📚 Movida pela curiosidade, estou sempre estudando novas ferramentas, linguagens e conceitos para evoluir na área. <br>
+🎨 No tempo livre, curto desenhar, jogar, ler e ficar com meus bichinhos. <br>
 
 >"Nenhuma alta sabedoria pode ser atingida sem uma dose de sacrifício." — C.S. Lewis
 >
@@ -8,6 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcella-moura21/?trk=eml-email_network_conversations_01-header-32-profile) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/marcella.moura._)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
